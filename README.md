@@ -3,9 +3,13 @@
 
  
 En este reporte veremos solamente la primera parte de una actividad, que en este caso solo se mostrara o se entregara la ventana GUI, mostrare lo que se utilizó o lo que utilicé para que funcione en la otra parte veremos más de cómo funciona ya todo junto.
+
 Objetivos 
+
 •	Crear una ventana con 3 botones 
+
 •	Que la venta contenga un apartado para mostrar el contenido de un archivo 
+
 •	Que se muestre una lista de la frecuencia de caracteres que hay en el contenido
 
 
